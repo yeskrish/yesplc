@@ -1,6 +1,6 @@
 normally open  --| |--
 
-normally close --|\|--
+normally close --| \ |--
 
 coil           --( )--
 
