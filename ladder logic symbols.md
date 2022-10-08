@@ -1,5 +1,7 @@
 normally open  --| |--
+
 normally close --|\|--
+
 coil           --( )--
 
 these are the symbols are mostely used in lader logic
